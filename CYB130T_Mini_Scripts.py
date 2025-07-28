@@ -151,7 +151,8 @@ print(max(numbers))
 
 #
 
-# type here
+phonetics = ("alpha", "bravo", "charlie", "delta", "echo", "foxtrot")
+print(len(phonetics))
 
 
 
