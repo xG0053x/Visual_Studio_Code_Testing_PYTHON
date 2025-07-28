@@ -1,11 +1,3 @@
-'''
-git add .
-git commit -m "."
-git push
-'''
-
-
-
 my_rhyme = [1, 2]
 my_rhyme.append("buckle my shoe")
 print(my_rhyme)
@@ -132,3 +124,13 @@ print(any(t3))
 
 t4 = (0, "", [], {}, None, 3.14)
 print(any(t4))
+
+#
+
+
+
+'''
+git add .
+git commit -m "."
+git push
+'''
