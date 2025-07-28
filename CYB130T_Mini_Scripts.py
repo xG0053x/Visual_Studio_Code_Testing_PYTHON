@@ -127,7 +127,8 @@ print(any(t4))
 
 #
 
-/
+colors = ("red", "Red", "blue", "red", "yellow")
+print(colors.count("red"))
 
 
 
