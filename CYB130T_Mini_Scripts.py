@@ -130,6 +130,9 @@ print(any(t4))
 colors = ("red", "Red", "blue", "red", "yellow")
 print(colors.count("red"))
 
+numbers = (1, 1, 2, 2, 3, 4)
+print(numbers.count(5))
+
 
 
 
