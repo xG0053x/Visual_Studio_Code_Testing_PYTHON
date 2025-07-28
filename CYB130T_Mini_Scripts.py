@@ -154,6 +154,18 @@ print(max(numbers))
 phonetics = ("alpha", "bravo", "charlie", "delta", "echo", "foxtrot")
 print(len(phonetics))
 
+#
+
+pets = ("cat", "cat", "cat", "dog", "horse")
+c = pets.count("cat")
+d = len(pets)
+
+if c > (d / 2):
+    print("There are too many cats here")
+else:
+    print("Everything is good")
+
+
 
 
 
