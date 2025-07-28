@@ -133,6 +133,13 @@ print(colors.count("red"))
 numbers = (1, 1, 2, 2, 3, 4)
 print(numbers.count(5))
 
+#
+
+letters = ("d", "a", "z")
+print(min(letters))
+
+numbers = (43, 23, 5, 99)
+print(min(numbers))
 
 
 
