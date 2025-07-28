@@ -141,6 +141,14 @@ print(min(letters))
 numbers = (43, 23, 5, 99)
 print(min(numbers))
 
+#
+
+letters = ("a", "b", "c")
+print(max(letters))
+
+numbers = (1, 2, 3, 4, 5)
+print(max(numbers))
+
 
 
 
