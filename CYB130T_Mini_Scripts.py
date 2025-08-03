@@ -165,6 +165,10 @@ if c > (d / 2):
 else:
     print("Everything is good")
 
+#
+
+##
+
 
 
 
