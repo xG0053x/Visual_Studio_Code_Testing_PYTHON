@@ -1,0 +1,2 @@
+- This is, basically, a little test repo for me to try out code snippets I learn from zyBooks and other small projects 
+- Written in Python
