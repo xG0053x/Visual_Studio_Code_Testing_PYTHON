@@ -1,1 +1,1 @@
-print("Testing" * 10)
+print("Testing" * 8)
